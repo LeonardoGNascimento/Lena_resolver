@@ -17,6 +17,6 @@
   "require": {
     "php": ">=8.2"
   },
-  "minimum-stability": "beta",
-  "version": "1.0.2"
+  "minimum-stability": "dev",
+  "version": "1.0.0"
 }
