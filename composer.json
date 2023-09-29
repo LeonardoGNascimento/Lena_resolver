@@ -1,0 +1,22 @@
+{
+  "name": "lena/resolver",
+  "type": "library",
+  "description": "Biblioteca para resolver dependencias de classes",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "LeonardoGNascimento",
+      "email": "leonardogabrielllpedroso@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lena\\Resolver\\": "Resolver/"
+    }
+  },
+  "require": {
+    "php": ">=8.2"
+  },
+  "minimum-stability": "beta",
+  "version": "1.0.2"
+}
